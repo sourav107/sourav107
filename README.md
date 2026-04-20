@@ -1,77 +1,110 @@
-<!-- Typing Animation Header -->
+<!-- ================== HEADER ANIMATION ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=SQA+Engineer+Trainee;Manual+%26+Automation+Testing;Bug+Hunter;Quality+Assurance+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Iftekhar+Ahmed+Sourav;SQA+Engineer+Trainee;Manual+%2B+Automation+Testing+Learner;Bug+Hunter+%7C+Quality+Enthusiast" />
 </p>
 
 ---
 
-# 👨‍💻 Iftekhar Ahmed Sourav  
+<h1 align="center">👨‍💻 Iftekhar Ahmed Sourav</h1>
+<h3 align="center">🧪 Software Quality Assurance (SQA) Engineer (Trainee)</h3>
 
-🧪 Software Quality Assurance (SQA) Engineer (Trainee)  
-🤖 Manual + Automation Testing Learner  
-📍 Bangladesh  
-
----
-
-## 👤 About Me  
-Aspiring SQA Engineer focused on improving software quality through structured testing.  
-Learning manual testing, API testing, and automation tools with real-world practice.
-
----
-
-## 🧠 Core Skills  
-
-<p>
-<img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Test%20Case%20Design-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bug%20Reporting-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation%20Learning-green?style=for-the-badge"/>
+<p align="center">
+📍 Bangladesh | 🤖 Manual + Automation Testing Learner
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 👤 About Me
+```diff
++ Passionate about Software Quality Assurance
++ Focused on Manual & Automation Testing
++ Learning real-world QA tools & workflows
++ Building strong foundation in testing principles
+```
 
-<p>
-<img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/JIRA-Bug%20Tracking-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Selenium-Learning-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat-square"/>
+---
+
+## 🧠 Skills & Expertise
+
+<p align="center">
+<img src="https://img.shields.io/badge/Manual%20Testing-Expertise-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/Automation-Selenium-green?style=for-the-badge&logo=selenium" />
+<img src="https://img.shields.io/badge/Bug%20Reporting-Jira-critical?style=for-the-badge&logo=jira" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,selenium,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav107&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sourav107&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav107&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Career Objective  
-
-To become a professional SQA Engineer with strong skills in both manual and automation testing,  
-and contribute to delivering high-quality software systems.
+## 🎯 Career Objective
+To become a professional **SQA Engineer** with strong expertise in both **Manual and Automation Testing**,  
+ensuring high-quality software delivery through structured testing and bug analysis.
 
 ---
 
-## 📈 Current Learning Focus  
-
+## 📈 Current Learning Focus
 - Manual Testing Fundamentals  
 - API Testing using Postman  
 - Selenium Automation Basics  
 - Writing Test Cases & Bug Reports  
+- Agile & SDLC Understanding  
 
 ---
 
-## 📫 Contact  
+## 🧪 Testing Practice Areas
+- Functional Testing  
+- Regression Testing  
+- Smoke Testing  
+- API Validation  
+- UI Testing Basics  
 
-📧 Email: iftekarsourav75@gmail.com  
-🔗 GitHub: https://github.com/sourav107  
+---
+
+## 🚀 Projects (Practice Work)
+- 📌 Postman API Testing Collection (Sample Projects)  
+- 📌 Manual Test Case Writing (Web Apps)  
+- 📌 Bug Reporting Practice (Jira-style format)  
+- 📌 Selenium Automation Basics (Learning Phase)  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sourav107-181717?style=for-the-badge&logo=github)](https://github.com/sourav107)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iftekhar%20Sourav-0A66C2?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/iftekhar-sourav-153b39360)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sourav107.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-iftekarsourav75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftekarsourav75@gmail.com)
+
+</p>
+
+---
+
+<!-- ================== FOOTER ANIMATION ================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:005bea&height=120&section=footer"/>
+</p>
