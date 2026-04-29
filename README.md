@@ -6,7 +6,7 @@
 ![Followers](https://img.shields.io/github/followers/sourav107?style=for-the-badge&color=7B2FFF&labelColor=0D1117&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/sourav107?style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=STARS)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=🧪+SQA+Engineer+Trainee;🤖+AI+Automation+Explorer;🌐+Animated+Website+Developer;🐞+Bug+Hunter+%7C+Quality+Obsessed" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=SQA+Engineer+Trainee;AI+Automation+Explorer;Animated+Website+Developer;Bug+Hunter+%7C+Quality+Obsessed" />
 
 </div>
 
